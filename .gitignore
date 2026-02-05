@@ -1,0 +1,28 @@
+# Arduino / PlatformIO
+.build/
+.pio/
+.vscode/
+.idea/
+*.code-workspace
+
+# Arduino IDE
+*.ino.eep
+*.ino.bin
+*.ino.hex
+*.ino.with_bootloader.bin
+*.elf
+*.map
+
+# macOS / Windows
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
+# Secrets / local config
+secrets.h
+wifi_secrets.h
+config.local.*
