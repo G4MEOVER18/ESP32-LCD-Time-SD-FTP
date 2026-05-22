@@ -26,16 +26,16 @@
 
 // ------------------ WLAN / Zeit ------------------
 // STA: verbindet sich mit deinem WLAN
-const char* ssid     = "YourDataMyData";
-const char* password = "KiCinference$94RC";
+const char* ssid     = "YOUR_SSID";
+const char* password = "YOUR_PASSWORD";
 
 // Gerät / Hostname / mDNS
-const char* deviceName   = "NoCloudHub";     // WiFi Hostname (Router-Clientliste)
+const char* deviceName   = "YOUR_AP_SSID";     // WiFi Hostname (Router-Clientliste)
 const char* mdnsName     = "nocloudhub";     // mDNS (http://nocloudhub.local)
 
 // Fallback AP (wenn WLAN nicht klappt)
-const char* ap_ssid      = "NoCloudHub";     // eigenes WLAN
-const char* ap_password  = "KiCinference$94RC"; // >=8 Zeichen
+const char* ap_ssid      = "YOUR_AP_SSID";     // eigenes WLAN
+const char* ap_password  = "YOUR_PASSWORD"; // >=8 Zeichen
 
 // Zeit
 long timezoneOffset = 1;   // UTC+1

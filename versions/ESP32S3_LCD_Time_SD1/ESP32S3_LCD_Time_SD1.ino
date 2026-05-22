@@ -22,8 +22,8 @@
 // -------------------------------
 // WLAN + Zeit
 // -------------------------------
-const char* ssid     = "Galaxy S21 FE 5G 1cu8";
-const char* password = "12345678";
+const char* ssid     = "YOUR_SSID";
+const char* password = "YOUR_PASSWORD";
 
 long timezone = 1;      // UTC+1
 byte daysavetime = 1;   // Sommerzeit
