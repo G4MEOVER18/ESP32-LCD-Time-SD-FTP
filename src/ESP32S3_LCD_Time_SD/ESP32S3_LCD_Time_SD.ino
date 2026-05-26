@@ -395,8 +395,8 @@ void startHttpFtpIfNeeded() {
   server.begin();
 
 #if ENABLE_FTP
-  // FTP User ändern: yanis / Passwort bleibt wie gewünscht
-  ftpSrv.begin("yanis", "Core2Quad");
+  // FTP User ändern: User / Passwort bleibt wie gewünscht
+  ftpSrv.begin("SET_USER", "SET_PASSWORD");
 #endif
 
   started = true;
