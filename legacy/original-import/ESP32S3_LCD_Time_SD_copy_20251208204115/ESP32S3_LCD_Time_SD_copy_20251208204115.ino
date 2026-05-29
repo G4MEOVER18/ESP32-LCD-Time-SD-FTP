@@ -416,7 +416,7 @@ void startHttpFtpIfNeeded() {
 
 #if ENABLE_FTP
   // FTP ohne nicht unterstützte Methoden
-  ftpSrv.begin("yanis", "Core2Quad");
+  ftpSrv.begin("USER", "CHANGEME");
   // Hinweis: setPassiveMode() und setBufferSize() werden nicht unterstützt
   // Diese Funktionen sind in der verwendeten Bibliotheksversion nicht verfügbar
 #endif
