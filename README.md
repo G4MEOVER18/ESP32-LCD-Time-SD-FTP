@@ -18,3 +18,9 @@ MIT – siehe `LICENSE`.
 
 ## Tags (für GitHub)
 esp32s3, arduino, ntp, sd-card, arduino_gfx, dashboard
+
+---
+
+## Kontakt
+
+**Entwickler:** Yanis Ameseder · **E-Mail:** [g4me.over.18@gmail.com](mailto:g4me.over.18@gmail.com)
