@@ -26,3 +26,6 @@ Desktop.ini
 secrets.h
 wifi_secrets.h
 config.local.*
+
+# Release-Artefakte
+release-bins/
