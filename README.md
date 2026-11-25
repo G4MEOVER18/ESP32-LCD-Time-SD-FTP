@@ -2,6 +2,8 @@
 
 # ESP32-LCD-Time-SD-FTP
 
+[![CI](https://github.com/G4MEOVER18/ESP32-LCD-Time-SD-FTP/actions/workflows/platformio-build.yml/badge.svg)](https://github.com/G4MEOVER18/ESP32-LCD-Time-SD-FTP/actions/workflows/platformio-build.yml)
+
 **ESP32-S3 Dashboard: NTP-Uhr auf 1.47"-Display, SD-Logging, WebServer & FTP-Server.**
 
 [![Plattform](https://img.shields.io/badge/Plattform-ESP32--S3-blue?style=flat-square)](.)
